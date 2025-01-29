@@ -1,10 +1,11 @@
-<h1 align="center">Hello 👋, I'm Armando</h1>
+<h1 align="center">Hello, I'm Armando 👋</h1>
 
-<h3 align="center">I am a highly motivated and detail-oriented Entry-Level Application Developer with a solid foundation in platform development. Proficient in a diverse range of technologies including Java, Python, MySQL, MongoDB, PHP, CSS, and HTML5. I excel in designing and implementing scalable, high-performance solutions while ensuring a seamless user experience. I am eager to contribute to dynamic development teams and further enhance my technical expertise through hands-on projects.</h3>
+<p align="center">
+  I'm an Entry-level Application Developer passionate about building innovative solutions. With a strong foundation in platform development, I specialize in a variety of programming languages and technologies, including Java, Python, MySQL, MongoDB, PHP, CSS, and HTML5. My goal is to design scalable, efficient applications that deliver exceptional user experiences.
+</p>
 
-<h3 align="left">Let's Connect:</h3>
-<p align="left">
-  <!-- Add your contact links here -->
+<p align="center">
+  I am constantly learning and growing, looking for opportunities to contribute to dynamic teams and tackle real-world challenges.
 </p>
 
 <h3 align="left">Technologies & Tools:</h3>
@@ -38,15 +39,20 @@
   </a>
 </p>
 
-<h3 align="left">My GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armandojgg&show_icons=true&locale=en&layout=compact" alt="armandojgg" />
+<h3 align="left">Let's Connect:</h3>
+<p align="left">
+  <!-- Add links to your social media, GitHub, LinkedIn, etc. -->
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=armandojgg&show_icons=true&locale=en" alt="armandojgg" />
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armandojgg&show_icons=true&locale=en&layout=compact" alt="armandojgg" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armandojgg&" alt="armandojgg" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=armandojgg&show_icons=true&locale=en" alt="armandojgg" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armandojgg&" alt="armandojgg" />
 </p>
