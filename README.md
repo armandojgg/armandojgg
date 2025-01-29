@@ -41,9 +41,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armandojgg&show_icons=true&locale=en&layout=compact" alt="armandojgg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armandojgg&show_icons=true&locale=en&layout=compact&theme=dark" alt="armandojgg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armandojgg&show_icons=true&locale=en" alt="armandojgg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=armandojgg&show_icons=true&locale=en&theme=dark" alt="armandojgg" />
 </p>
