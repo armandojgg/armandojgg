@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Armando 👋</h1>
 
 <p align="center">
-  I'm an Entry-level Application Developer passionate about building innovative solutions. With a strong foundation in platform development, I specialize in a variety of programming languages and technologies, including Java, Python, MySQL, MongoDB, PHP, CSS, and HTML5. My goal is to design scalable, efficient applications that deliver exceptional user experiences.
+  I'm an Entry-level Application Developer with a strong passion for building innovative solutions. With a solid foundation in platform development, I specialize in a wide range of programming languages and technologies, including Java, Python, MySQL, MongoDB, PHP, CSS, and HTML5. My goal is to design scalable, efficient applications that provide exceptional user experiences.
 </p>
 
 <p align="center">
-  I am constantly learning and growing, looking for opportunities to contribute to dynamic teams and tackle real-world challenges.
+  I am committed to continuous learning and growth, actively seeking opportunities to contribute to dynamic teams and tackle real-world challenges with impactful solutions.
 </p>
 
 <h3 align="left">Technologies & Tools:</h3>
